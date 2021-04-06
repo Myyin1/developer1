@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shop.iml" filepath="$PROJECT_DIR$/shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-dao/shopping-dao.iml" filepath="$PROJECT_DIR$/shopping-dao/shopping-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-serivc/shopping-serivc.iml" filepath="$PROJECT_DIR$/shopping-serivc/shopping-serivc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-wed/shopping-wed.iml" filepath="$PROJECT_DIR$/shopping-wed/shopping-wed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sopping-entity/sopping-entity.iml" filepath="$PROJECT_DIR$/sopping-entity/sopping-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/soppingwed/soppingwed.iml" filepath="$PROJECT_DIR$/soppingwed/soppingwed.iml" />
+    </modules>
+  </component>
+</project>

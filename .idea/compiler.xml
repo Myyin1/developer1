@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shopping-serivc" />
+        <module name="soppingwed" />
+        <module name="sopping-entity" />
+        <module name="shopping-dao" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="shopping-dao" target="1.7" />
+      <module name="shopping-serivc" target="1.7" />
+      <module name="shopping-wed" target="1.7" />
+      <module name="sopping-entity" target="1.7" />
+      <module name="soppingwed" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
